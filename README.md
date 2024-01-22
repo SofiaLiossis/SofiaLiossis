@@ -6,11 +6,11 @@
 
 ###
 
-<p align="left">📚 Who I Am:<br>Immersed in the study of Data Analysis, I am fascinated by uncovering hidden stories in data and translating complex numbers into meaningful insights. My journey in the world of data analysis is an ever-evolving path where I strive to acquire new skills and knowledge every day.</h2>
+<h3 align="left">📚 Who I Am</h2><br>Immersed in the study of Data Analysis, I am fascinated by uncovering hidden stories in data and translating complex numbers into meaningful insights. My journey in the world of data analysis is an ever-evolving path where I strive to acquire new skills and knowledge every day.</h2>
 
 ###
 
-<p align="left">🚀 Skills and Interests<br>I am currently deepening my skills in:<br>- Python<br>- SQL<br>- Excel</p>
+<h3 align="left">🚀 Skills and Interests</h3><br>I am currently deepening my skills in:<br>- Python<br>- SQL<br>- Excel</p>
 
 ###
 
@@ -33,6 +33,11 @@
 </div>
 
 ###
+<!---
+SofiaLiossis/SofiaLiossis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
 <!---
 SofiaLiossis/SofiaLiossis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
