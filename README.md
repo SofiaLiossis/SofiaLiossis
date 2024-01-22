@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">📚 Who I Am:<br>Immersed in the study of Data Analysis, I am fascinated by uncovering hidden stories in data and translating complex numbers into meaningful insights. My journey in the world of data analysis is an ever-evolving path where I strive to acquire new skills and knowledge every day.</h2>
+<h3 align="left">📚 Who I Am:<br>Immersed in the study of Data Analysis, I am fascinated by uncovering hidden stories in data and translating complex numbers into meaningful insights. My journey in the world of data analysis is an ever-evolving path where I strive to acquire new skills and knowledge every day.</h2>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">📫 I am open to collaborations, feedback, and learning opportunities. Feel free to reach out for any questions or suggestions!</h2>
+<h3 align="left">📫 I am open to collaborations, feedback, and learning opportunities. Feel free to reach out for any questions or suggestions!</h2>
 
 ###
 
