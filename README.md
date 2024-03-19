@@ -10,7 +10,7 @@
 
 ###
 
-<h3 align="left">🚀 Skills and Interests</h3><br>I am currently deepening my skills in:<br>- Python<br>- SQL<br>- Excel</p>
+<h3 align="left">🚀 Skills and Interests</h3><br>I am currently deepening my skills in:<br>- Python<br>- SQL<br>- PowerBI<br>- Google Looker<br>- Excel</p>
 
 ###
 
