@@ -1,4 +1,4 @@
-<h1 align="left">Sofia - Aspiring Data Analyst 👩‍💻</h1>
+<h1 align="left">Sofia - Junior Data Analyst 👩‍💻</h1>
 
 ###
 
